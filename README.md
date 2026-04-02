@@ -1,6 +1,19 @@
 # Text-Classification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/MAYANK479/Text-Classification)](https://github.com/MAYANK479/Text-Classification)
+[![Build Status](https://github.com/MAYANK479/Text-Classification/actions/workflows/main.yml/badge.svg)](https://github.com/MAYANK479/Text-Classification/actions)
+[![Downloads](https://img.shields.io/github/downloads/MAYANK479/Text-Classification/total.svg)](https://github.com/MAYANK479/Text-Classification/releases)
+
+> A complete reproducible implementation of sentiment analysis from the `NLP_Mayank_Final rp.pdf` lab report.
+> Includes preprocessing, TF-IDF + Naive Bayes pipeline and comparative classifiers (SVM, Logistic, NBSVM).
+
 Reproduction of NLP sentiment analysis project from lab report (`NLP_Mayank_Final rp.pdf`) using IMDB + Sentiment140 datasets.
+
+## Author
+
+- Mayank Pandey
 
 ## Project structure
 
